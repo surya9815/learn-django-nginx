@@ -1,0 +1,7 @@
+Django
+mysqlclient
+dj-database-url
+lorem
+redis
+django-redis
+gunicorn
